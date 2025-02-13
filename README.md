@@ -1,6 +1,6 @@
 Revised Copenhagen Interpretation initial validation script.
 ------------------------------------------------------------
-Preprint documents DOI: 10.5281/zenodo.14865083
+Preprint documents DOI: 10.5281/zenodo.14865695
 ------------------------------------------------------------
 Version 0.1.0
 ------------------------------------------------------------
