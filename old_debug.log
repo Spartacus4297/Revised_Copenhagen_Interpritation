@@ -1,0 +1,635 @@
+2024-12-08 12:30:03,345 - DEBUG - Using proactor: IocpProactor
+2024-12-08 12:30:03,347 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:30:03,348 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:30:03,348 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,348 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:30:03,348 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,348 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:30:03,349 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:30:03,350 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:30:03,352 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:30:03,352 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,352 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,352 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:30:03,353 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,354 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:30:03,354 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:30:03,354 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,354 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:30:03,355 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,355 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:30:03,356 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:30:03,356 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:30:03,357 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:30:03,358 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,358 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,358 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:30:03,358 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:30:03,358 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,358 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,359 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,359 - DEBUG - Caclulated redshift factor Z: 1089
+2024-12-08 12:30:03,359 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 12:30:03,359 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 12:30:03,360 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,360 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:30:03,360 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:30:03,361 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,361 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:30:03,361 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,361 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:30:03,362 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:30:03,363 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:30:03,364 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:30:03,364 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,364 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,364 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,365 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:30:03,365 - DEBUG - Standard Matter Energy Density (Rho_matter_standard): 2.5852078575472076e-27
+2024-12-08 12:30:03,365 - DEBUG - Standard Dark Energy Density (Rho_lambda_standard): 6.03215166761015e-27
+2024-12-08 12:30:03,365 - DEBUG - Calculated radiation energy density (Rho_rad): 0.06128243932527482
+2024-12-08 12:30:03,366 - DEBUG - Calculated Delta Rho_E (x) : 0.11998626500558207
+2024-12-08 12:30:03,366 - DEBUG - Total Standard Energy Density (Rho_total_standard): 0.06128243932527482
+2024-12-08 12:30:03,366 - DEBUG - Calculated OU Mass Energy: 8.088796608631359e+70
+2024-12-08 12:30:03,366 - DEBUG - Calculated OU Temperature energy : 3.762268525e-23
+2024-12-08 12:30:03,367 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:30:03,367 - DEBUG - Calculated OU Electric Field Energy: 1.263730082775668e+19
+2024-12-08 12:30:03,367 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:30:03,367 - DEBUG - Calculated OU Magnetic Field Energy: 1.1357839564187833e+30
+2024-12-08 12:30:03,368 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:30:03,369 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:30:03,370 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:30:03,370 - DEBUG - Calculated Helium nuclear binding energy : 1.0728294357026798e-12
+2024-12-08 12:30:03,371 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,371 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,371 - DEBUG - Calculated MW total photonic energy: 3.320939433918459e-08
+2024-12-08 12:30:03,371 - DEBUG - Calculated OU Surface Area: 1.1058397344176642e+19
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,372 - DEBUG - Calculated OU Radiative energy: 1.575145523189209e+31
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB H_0 energy conversion: 2.3720025923525603e-18
+2024-12-08 12:30:03,372 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,372 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,373 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:30:03,373 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:30:03,373 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,373 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:30:03,374 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,374 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:30:03,375 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:30:03,375 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:30:03,376 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:30:03,377 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,377 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,377 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:30:03,377 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:30:03,377 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,377 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,377 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:30:03,378 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,378 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:30:03,378 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,378 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,378 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:30:03,378 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:30:03,378 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:30:03,378 - DEBUG - Caclulated redshift factor Z: 1089
+2024-12-08 12:30:03,378 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 12:30:03,378 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 12:30:03,378 - DEBUG - Calculated Rho_E: 2.0705050843841786e-44
+2024-12-08 12:30:03,390 - INFO - results successfully saved to results.json
+2024-12-08 12:38:52,843 - DEBUG - Using proactor: IocpProactor
+2024-12-08 12:38:52,844 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:38:52,845 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:38:52,845 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,845 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:38:52,846 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,846 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:38:52,847 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:38:52,848 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:38:52,849 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:38:52,849 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,849 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,849 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:38:52,850 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,851 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:38:52,851 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:38:52,851 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,851 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:38:52,852 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,852 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:38:52,853 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:38:52,853 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:38:52,855 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:38:52,855 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,855 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,855 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,856 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,856 - DEBUG - Caclulated redshift factor Z: 1089
+2024-12-08 12:38:52,856 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 12:38:52,857 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 12:38:52,857 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,857 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:38:52,858 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:38:52,858 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,858 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:38:52,858 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,858 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:38:52,859 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:38:52,860 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:38:52,861 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:38:52,861 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,862 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,862 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:38:52,862 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:38:52,862 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,862 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,862 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:38:52,862 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,863 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,863 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,863 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,863 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:38:52,863 - DEBUG - Standard Matter Energy Density (Rho_matter_standard): 2.5852078575472076e-27
+2024-12-08 12:38:52,863 - DEBUG - Standard Dark Energy Density (Rho_lambda_standard): 6.03215166761015e-27
+2024-12-08 12:38:52,863 - DEBUG - Calculated radiation energy density (Rho_rad): 0.06128243932527482
+2024-12-08 12:38:52,863 - DEBUG - Calculated Delta Rho_E (x) : 0.11998626500558207
+2024-12-08 12:38:52,863 - DEBUG - Total Standard Energy Density (Rho_total_standard): 0.06128243932527482
+2024-12-08 12:38:52,863 - DEBUG - Calculated OU Mass Energy: 8.088796608631359e+70
+2024-12-08 12:38:52,864 - DEBUG - Calculated OU Temperature energy : 3.762268525e-23
+2024-12-08 12:38:52,864 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:38:52,864 - DEBUG - Calculated OU Electric Field Energy: 1.263730082775668e+19
+2024-12-08 12:38:52,864 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:38:52,864 - DEBUG - Calculated OU Magnetic Field Energy: 1.1357839564187833e+30
+2024-12-08 12:38:52,865 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:38:52,866 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:38:52,867 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:38:52,868 - DEBUG - Calculated Helium nuclear binding energy : 1.0728294357026798e-12
+2024-12-08 12:38:52,868 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,868 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,868 - DEBUG - Calculated MW total photonic energy: 3.320939433918459e-08
+2024-12-08 12:38:52,869 - DEBUG - Calculated OU Surface Area: 1.1058397344176642e+19
+2024-12-08 12:38:52,869 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,869 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,869 - DEBUG - Calculated OU Radiative energy: 1.575145523189209e+31
+2024-12-08 12:38:52,869 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,869 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,869 - DEBUG - Calculated CMB H_0 energy conversion: 2.3720025923525603e-18
+2024-12-08 12:38:52,869 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:38:52,870 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,870 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,870 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,870 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:38:52,870 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:38:52,871 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,871 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:38:52,871 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,871 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:38:52,872 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:38:52,873 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:38:52,874 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:38:52,874 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,874 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,874 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:38:52,875 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:38:52,876 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:38:52,876 - DEBUG - Caclulated redshift factor Z: 1089
+2024-12-08 12:38:52,876 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 12:38:52,876 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 12:38:52,876 - DEBUG - Calculated Rho_E: 2.0705050843841786e-44
+2024-12-08 12:39:25,788 - DEBUG - Using proactor: IocpProactor
+2024-12-08 12:39:25,790 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:39:25,791 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:39:25,791 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,791 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:39:25,791 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,791 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:39:25,793 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:39:25,794 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:39:25,794 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:39:25,795 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,795 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,795 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:39:25,795 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:39:25,795 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:39:25,796 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,797 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:39:25,797 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:39:25,797 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,797 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:39:25,798 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,798 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:39:25,798 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:39:25,800 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:39:25,801 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:39:25,801 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,801 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,801 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,802 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,802 - DEBUG - Caclulated redshift factor Z: 1089
+2024-12-08 12:39:25,803 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 12:39:25,803 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 12:39:25,803 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,803 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:39:25,803 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:39:25,804 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,804 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:39:25,804 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,804 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:39:25,805 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:39:25,806 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:39:25,807 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:39:25,807 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,807 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,807 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:39:25,808 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:39:25,808 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,808 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,808 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:39:25,808 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,809 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,809 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,809 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,809 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:39:25,809 - DEBUG - Standard Matter Energy Density (Rho_matter_standard): 2.5852078575472076e-27
+2024-12-08 12:39:25,809 - DEBUG - Standard Dark Energy Density (Rho_lambda_standard): 6.03215166761015e-27
+2024-12-08 12:39:25,809 - DEBUG - Calculated radiation energy density (Rho_rad): 0.06128243932527482
+2024-12-08 12:39:25,809 - DEBUG - Calculated Delta Rho_E (x) : 0.11998626500558207
+2024-12-08 12:39:25,809 - DEBUG - Total Standard Energy Density (Rho_total_standard): 0.06128243932527482
+2024-12-08 12:39:25,809 - DEBUG - Calculated OU Mass Energy: 8.088796608631359e+70
+2024-12-08 12:39:25,810 - DEBUG - Calculated OU Temperature energy : 3.762268525e-23
+2024-12-08 12:39:25,810 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:39:25,810 - DEBUG - Calculated OU Electric Field Energy: 1.263730082775668e+19
+2024-12-08 12:39:25,810 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:39:25,810 - DEBUG - Calculated OU Magnetic Field Energy: 1.1357839564187833e+30
+2024-12-08 12:39:25,811 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:39:25,812 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:39:25,813 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:39:25,814 - DEBUG - Calculated Helium nuclear binding energy : 1.0728294357026798e-12
+2024-12-08 12:39:25,814 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,814 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,814 - DEBUG - Calculated MW total photonic energy: 3.320939433918459e-08
+2024-12-08 12:39:25,815 - DEBUG - Calculated OU Surface Area: 1.1058397344176642e+19
+2024-12-08 12:39:25,815 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,815 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,815 - DEBUG - Calculated OU Radiative energy: 1.575145523189209e+31
+2024-12-08 12:39:25,815 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,815 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,815 - DEBUG - Calculated CMB H_0 energy conversion: 2.3720025923525603e-18
+2024-12-08 12:39:25,816 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 12:39:25,816 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,816 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,816 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,816 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 12:39:25,816 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 12:39:25,817 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,817 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 12:39:25,817 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,817 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 12:39:25,818 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 12:39:25,819 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 12:39:25,820 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 12:39:25,820 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,821 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,821 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 12:39:25,821 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 12:39:25,821 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,821 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,821 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 12:39:25,821 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,822 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 12:39:25,822 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,822 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,822 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 12:39:25,822 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 12:39:25,822 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 12:39:25,822 - DEBUG - Caclulated redshift factor Z: 1089
+2024-12-08 12:39:25,822 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 12:39:25,822 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 12:39:25,822 - DEBUG - Calculated Rho_E: 2.0705050843841786e-44
+2024-12-08 12:39:25,833 - INFO - results successfully saved to results.json
+2024-12-08 14:11:55,845 - DEBUG - Using proactor: IocpProactor
+2024-12-08 14:11:55,847 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:11:55,847 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:11:55,847 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,848 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:11:55,848 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,848 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:11:55,849 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:11:55,850 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:11:55,851 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:11:55,851 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,851 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,851 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,852 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:11:55,853 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,853 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:11:55,853 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:11:55,854 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,854 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:11:55,854 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,854 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:11:55,855 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:11:55,856 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:11:55,857 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:11:55,857 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,857 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,857 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,858 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,859 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 14:11:55,859 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 14:11:55,859 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,860 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:11:55,860 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:11:55,860 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,860 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:11:55,861 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,861 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:11:55,861 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:11:55,862 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:11:55,863 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:11:55,864 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,865 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,865 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,865 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,865 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:11:55,865 - DEBUG - Standard Matter Energy Density (Rho_matter_standard): 2.5852078575472076e-27
+2024-12-08 14:11:55,865 - DEBUG - Standard Dark Energy Density (Rho_lambda_standard): 6.03215166761015e-27
+2024-12-08 14:11:55,865 - DEBUG - Calculated radiation energy density (Rho_rad): 0.06128243932527482
+2024-12-08 14:11:55,865 - DEBUG - Calculated Delta Rho_E (x) : 0.11998626500558207
+2024-12-08 14:11:55,865 - DEBUG - Total Standard Energy Density (Rho_total_standard): 0.06128243932527482
+2024-12-08 14:11:55,866 - DEBUG - Calculated OU Mass Energy: 8.088796608631359e+70
+2024-12-08 14:11:55,866 - DEBUG - Calculated OU Temperature energy : 3.762268525e-23
+2024-12-08 14:11:55,866 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 14:11:55,867 - DEBUG - Calculated OU Electric Field Energy: 1.263730082775668e+19
+2024-12-08 14:11:55,867 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 14:11:55,867 - DEBUG - Calculated OU Magnetic Field Energy: 1.1357839564187833e+30
+2024-12-08 14:11:55,868 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:11:55,869 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:11:55,870 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:11:55,870 - DEBUG - Calculated Helium nuclear binding energy : 1.0728294357026798e-12
+2024-12-08 14:11:55,871 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,871 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,871 - DEBUG - Calculated MW total photonic energy: 3.320939433918459e-08
+2024-12-08 14:11:55,871 - DEBUG - Calculated OU Surface Area: 1.1058397344176642e+19
+2024-12-08 14:11:55,871 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,871 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,872 - DEBUG - Calculated OU Radiative energy: 1.575145523189209e+31
+2024-12-08 14:11:55,872 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,872 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,872 - DEBUG - Calculated CMB H_0 energy conversion: 2.3720025923525603e-18
+2024-12-08 14:11:55,872 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 14:11:55,872 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,872 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,872 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,873 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:11:55,873 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:11:55,873 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,873 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:11:55,874 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,874 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:11:55,875 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:11:55,876 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:11:55,876 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:11:55,877 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,877 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,877 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:11:55,877 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:11:55,877 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:11:55,878 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:11:55,878 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 14:11:55,878 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 14:11:55,878 - DEBUG - Calculated Rho_E: 2.0705050843841786e-44
+2024-12-08 14:11:55,890 - INFO - results successfully saved to results.json
+2024-12-08 14:12:11,323 - DEBUG - Using proactor: IocpProactor
+2024-12-08 14:12:11,324 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:12:11,325 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:12:11,325 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,325 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:12:11,326 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,326 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:12:11,327 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:12:11,327 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:12:11,328 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:12:11,329 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,329 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,329 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:12:11,329 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:12:11,329 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,329 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,330 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:12:11,330 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,330 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,330 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,330 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,330 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:12:11,330 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,331 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:12:11,331 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:12:11,331 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,331 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:12:11,332 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,332 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:12:11,333 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:12:11,334 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:12:11,335 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:12:11,335 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,335 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,335 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,336 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,337 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:12:11,337 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,337 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,337 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 14:12:11,337 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 14:12:11,337 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,337 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:12:11,338 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:12:11,338 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,338 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:12:11,338 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,338 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:12:11,339 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:12:11,340 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:12:11,341 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:12:11,341 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,341 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,342 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:12:11,342 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:12:11,342 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,342 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,342 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:12:11,342 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,343 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,343 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,343 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,343 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:12:11,343 - DEBUG - Standard Matter Energy Density (Rho_matter_standard): 2.5852078575472076e-27
+2024-12-08 14:12:11,343 - DEBUG - Standard Dark Energy Density (Rho_lambda_standard): 6.03215166761015e-27
+2024-12-08 14:12:11,343 - DEBUG - Calculated radiation energy density (Rho_rad): 0.06128243932527482
+2024-12-08 14:12:11,343 - DEBUG - Calculated Delta Rho_E (x) : 0.11998626500558207
+2024-12-08 14:12:11,343 - DEBUG - Total Standard Energy Density (Rho_total_standard): 0.06128243932527482
+2024-12-08 14:12:11,343 - DEBUG - Calculated OU Mass Energy: 8.088796608631359e+70
+2024-12-08 14:12:11,344 - DEBUG - Calculated OU Temperature energy : 3.762268525e-23
+2024-12-08 14:12:11,344 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 14:12:11,344 - DEBUG - Calculated OU Electric Field Energy: 1.263730082775668e+19
+2024-12-08 14:12:11,344 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 14:12:11,345 - DEBUG - Calculated OU Magnetic Field Energy: 1.1357839564187833e+30
+2024-12-08 14:12:11,345 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:12:11,346 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:12:11,347 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:12:11,348 - DEBUG - Calculated Helium nuclear binding energy : 1.0728294357026798e-12
+2024-12-08 14:12:11,348 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,348 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,348 - DEBUG - Calculated MW total photonic energy: 3.320939433918459e-08
+2024-12-08 14:12:11,349 - DEBUG - Calculated OU Surface Area: 1.1058397344176642e+19
+2024-12-08 14:12:11,349 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,349 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,349 - DEBUG - Calculated OU Radiative energy: 1.575145523189209e+31
+2024-12-08 14:12:11,349 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,349 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,349 - DEBUG - Calculated CMB H_0 energy conversion: 2.3720025923525603e-18
+2024-12-08 14:12:11,350 - DEBUG - Calculated OU Volume: 2.8545364264634272e+54
+2024-12-08 14:12:11,350 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,350 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,350 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,350 - DEBUG - Calculated CMB Mass Energy: 0.08987551787368177
+2024-12-08 14:12:11,351 - DEBUG - Calculated CMB Temperature energy : 4.1419470000000005e-20
+2024-12-08 14:12:11,351 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,351 - DEBUG - Calculated CMB Electric Field Energy: 8.039912368702527e+40
+2024-12-08 14:12:11,351 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,351 - DEBUG - Calculated CMB Magnetic Field Energy: 7.225912877952965e+53
+2024-12-08 14:12:11,352 - DEBUG - Calculated Hydrogen nuclear binding energy: -8.186867102230506e-14
+2024-12-08 14:12:11,353 - DEBUG - Calculated Deuterium nuclear binding energy: 2.7454636567024906e-13
+2024-12-08 14:12:11,354 - DEBUG - Calculated Tritium nuclear binding energy: 1.2770653782811511e-12
+2024-12-08 14:12:11,354 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,354 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,354 - DEBUG - Calculated CMB total photonic energy: 3.016519985809267e-11
+2024-12-08 14:12:11,355 - DEBUG - Calculated CMB Surface Area: 9.510963634512984e+24
+2024-12-08 14:12:11,355 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,355 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,355 - DEBUG - Calculated CMB Radiative energy: 1.990086740278868e+49
+2024-12-08 14:12:11,355 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,355 - DEBUG - Calculated CMB Volume: 1.8160699847887727e+72
+2024-12-08 14:12:11,355 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,356 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,356 - DEBUG - Calculated CMB Rho_E (x) : 0.1812687043308569
+2024-12-08 14:12:11,356 - DEBUG - Calculated CMB H_0 energy conversion: 2.1950745301360987e-18
+2024-12-08 14:12:11,356 - DEBUG - Calculated CMB hubble time: 4.5556539710658394e+17
+2024-12-08 14:12:11,356 - DEBUG - Caclulated scaling factor a(t): 0.0009174311926605505
+2024-12-08 14:12:11,356 - DEBUG - Calculated Lambda : 6.308177413031715e-67
+2024-12-08 14:12:11,356 - DEBUG - Calculated Rho_E: 2.0705050843841786e-44
+2024-12-08 14:12:11,368 - INFO - results successfully saved to results.json
